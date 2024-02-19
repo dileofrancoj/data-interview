@@ -1,4 +1,4 @@
-# Churn Data Analysis
+# ECOMM Churn Data Analysis
 
 Se propone un análisis para la compañia **ECOMM** para entender el driver que lleva a un usuario a desuscribirse del servicio.
 
